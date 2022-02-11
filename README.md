@@ -1,6 +1,9 @@
 #ScamRadar
-Wtyczka + strona do monitorowania bezpieczeństwa pod kątem ewentualnych oszustw.
+*Wtyczka do monitorowania bezpieczeństwa pod kątem potencjalnego oszustwa*
 
+
+####Draft: 
+`Potrzeb`
 
 
 ##TODO
