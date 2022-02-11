@@ -2,12 +2,6 @@
 *Wtyczka do monitorowania bezpieczeństwa pod kątem potencjalnego oszustwa*
 
 
-####Draft: 
-`Potrzeb`
-
-
-##TODO
-
 ###Backend
 - Url do odczytywania danych na temat urla,
     - `id, url, wyświetlana nazwa, oceny i komentarz`
